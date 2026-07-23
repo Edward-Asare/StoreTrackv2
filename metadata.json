@@ -1,0 +1,6 @@
+{
+  "name": "StoreTrack",
+  "description": "Inventory management system for local provision shops selling drinks, beverages, and general goods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
